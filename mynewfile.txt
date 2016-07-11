@@ -1,1 +1,5 @@
 this is my first practice on git
+changes made on remote location 
+need to check in my local machine
+and see the result
+three new lines added 
